@@ -1,2 +1,3 @@
 hello class
 this is git bash first program
+My name is Anish
